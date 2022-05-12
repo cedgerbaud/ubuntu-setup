@@ -1,1 +1,1 @@
-# ubunut-setup
+# ubuntu-setup
